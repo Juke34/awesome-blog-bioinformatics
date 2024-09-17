@@ -34,14 +34,14 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Mark Ziemann | | [Genome Spot](http://genomespot.blogspot.be/) 
 | Mike Love | | [Mike Love’s blog](https://mikelove.wordpress.com/)
 | Mick Watson | | [OPINIOMICS](http://www.opiniomics.org/)
-| Ming Tommy Tang | | [Diving into Genetics and Genomics](http://crazyhottommy.blogspot.com) and (DNA CONFESSES DATA SPEAK)[https://divingintogeneticsandgenomics.rbind.io/]
+| Ming Tommy Tang | | [Diving into Genetics and Genomics](http://crazyhottommy.blogspot.com) and [DNA CONFESSES DATA SPEAK](https://divingintogeneticsandgenomics.rbind.io/)
 | Monika Cechova Mich | Santa Cruz, USA | [Bioinformatics Bits and Pieces](http://sites.psu.edu/biomonika/)
 | Neil Saunders | | [WHAT YOU'RE DOING IS RATHER DESPERATE](https://nsaunders.wordpress.com/)
 | Nick Loman | | [Nick Loman Lab](http://lab.loman.net//)
 | Páll Melsted | University of Iceland, ISL | [Bits of Bioinformatics](https://pmelsted.wordpress.com/)
 | Peter Cock | | [Blasted Bioinformatics!?](https://blastedbio.blogspot.be/) 
 | Pierre Lindenbaum | FRA | [YOKOFAKUN](http://plindenbaum.blogspot.be/) 
-| Shixiang Wang | ShanghaiTech University, CHN | (Shixiang Wang)[https://shixiangwang.github.io/home/]
+| Shixiang Wang | ShanghaiTech University, CHN | [Shixiang Wang](https://shixiangwang.github.io/home/)
 | Stephen Turner | | [Getting Genetics Done](http://www.gettinggeneticsdone.com/) 
 | Stuart Brown | | [Next-Gen Sequencing](http://nextgenseq.blogspot.be/)
 | Tan Boyu | Shanghai, CHN | [BY.Tan](https://www.tanboyu.com/)
