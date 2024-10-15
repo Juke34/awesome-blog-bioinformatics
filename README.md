@@ -41,6 +41,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Páll Melsted | University of Iceland, ISL | [Bits of Bioinformatics](https://pmelsted.wordpress.com/)
 | Peter Cock | | [Blasted Bioinformatics!?](https://blastedbio.blogspot.be/) 
 | Pierre Lindenbaum | FRA | [YOKOFAKUN](http://plindenbaum.blogspot.be/) 
+| Qingfeng Lan | USA | [Qingfeng's blog](https://lancelqf.github.io)
 | Shixiang Wang | ShanghaiTech University, CHN | [Shixiang Wang](https://shixiangwang.github.io/home/)
 | Stephen Turner | | [Getting Genetics Done](http://www.gettinggeneticsdone.com/) 
 | Stuart Brown | | [Next-Gen Sequencing](http://nextgenseq.blogspot.be/)
