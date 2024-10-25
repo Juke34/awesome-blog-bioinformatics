@@ -33,6 +33,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Lior Pachter | | [Bits of DNA](https://liorpachter.wordpress.com/)
 | Mark Ziemann | | [Genome Spot](http://genomespot.blogspot.be/) 
 | Mike Love | | [Mike Love’s blog](https://mikelove.wordpress.com/)
+| Michael D. Lee | NBACC & BMSIS / USA | [Happy Belly Bioinformatics](https://astrobiomike.github.io)
 | Mick Watson | | [OPINIOMICS](http://www.opiniomics.org/)
 | Ming Tommy Tang | | [Diving into Genetics and Genomics](http://crazyhottommy.blogspot.com) and [DNA CONFESSES DATA SPEAK](https://divingintogeneticsandgenomics.rbind.io/)
 | Monika Cechova Mich | Santa Cruz, USA | [Bioinformatics Bits and Pieces](http://sites.psu.edu/biomonika/)
