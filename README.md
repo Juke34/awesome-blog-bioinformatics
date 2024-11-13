@@ -56,8 +56,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 
 | Description |
 | --- |
-| [RNA-SEQ BLOG](https://www.rna-seqblog.com) | 
-| [HOMOLOG.US](https://homolog.us/blogs/) | 
+| [RNA-SEQ BLOG](https://www.rna-seqblog.com) | 
+| [HOMOLOG.US](https://homolog.us/blogs/) | 
 | [R-BLOGGERS](https://www.r-bloggers.com) |
 | [QIAGEN](https://digitalinsights.qiagen.com/news/blog/) | 
 
