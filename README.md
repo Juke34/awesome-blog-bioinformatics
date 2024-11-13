@@ -11,6 +11,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Author | Location | Description |
 | --- | --- | --- |
 | Brad Chapman | | [Blue Collar Bioinformatics](https://bcbio.wordpress.com/)
+| De Kim | | [Biology & Informatics](https://kimbio.info)
 | C. Titus Brown | | [Living in an Ivory Basement](http://ivory.idyll.org/blog/)
 | Dale Yuzuki | | [Next Generation Technologist](http://yuzuki.org) 
 | Dan Koboldt | | [Massgenomics](http://massgenomics.org)
