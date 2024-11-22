@@ -45,7 +45,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Pierre Lindenbaum | FRA | [YOKOFAKUN](http://plindenbaum.blogspot.be/) 
 | Qingfeng Lan | USA | [Qingfeng's blog](https://lancelqf.github.io)
 | Shixiang Wang | ShanghaiTech University, CHN | [Shixiang Wang](https://shixiangwang.github.io/home/)
-| Stephen Turner | | [Getting Genetics Done](http://www.gettinggeneticsdone.com/) 
+| Stephen Turner | | [Paired Ends](https://blog.stephenturner.us) 
 | Stuart Brown | | [Next-Gen Sequencing](http://nextgenseq.blogspot.be/)
 | Tan Boyu | Shanghai, CHN | [BY.Tan](https://www.tanboyu.com/)
 | Wouter Decoster | BEL | [Gigabase or gigabyte](https://gigabaseorgigabyte.wordpress.com/)
