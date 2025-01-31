@@ -10,6 +10,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 
 | Author | Location | Description |
 | --- | --- | --- |
+| Aiden lab | USA | [DNA Zoo](https://www.dnazoo.org)   
 | Avril Coghlan | UK | [avrilomics](http://avrilomics.blogspot.com)
 | Brad Chapman | | [Blue Collar Bioinformatics](https://bcbio.wordpress.com/)
 | De Kim | | [Biology & Informatics](https://kimbio.info)
