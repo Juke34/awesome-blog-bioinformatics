@@ -50,6 +50,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Stephen Turner | | [Paired Ends](https://blog.stephenturner.us) 
 | Stuart Brown | | [Next-Gen Sequencing](http://nextgenseq.blogspot.be/)
 | Tan Boyu | Shanghai, CHN | [BY.Tan](https://www.tanboyu.com/)
+| Torsten Seemann | AUS | [The Genome Factory](https://thegenomefactory.blogspot.com) 
 | Wouter Decoster | BEL | [Gigabase or gigabyte](https://gigabaseorgigabyte.wordpress.com/)
 | Yihui Xie | | [R · statistics · life · random thoughts](https://yihui.name/)
 
