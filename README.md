@@ -42,6 +42,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Monika Cechova Mich | Santa Cruz, USA | [Bioinformatics Bits and Pieces](http://sites.psu.edu/biomonika/)
 | Neil Saunders | | [WHAT YOU'RE DOING IS RATHER DESPERATE](https://nsaunders.wordpress.com/)
 | Nick Loman | | [Nick Loman Lab](http://lab.loman.net//)
+| Ozk | Osaka, JPN | [ozk7311](https://note.com/ozk7311) 
 | Páll Melsted | University of Iceland, ISL | [Bits of Bioinformatics](https://pmelsted.wordpress.com/)
 | Peter Cock | | [Blasted Bioinformatics!?](https://blastedbio.blogspot.be/) 
 | Pierre Lindenbaum | FRA | [YOKOFAKUN](http://plindenbaum.blogspot.be/) 
