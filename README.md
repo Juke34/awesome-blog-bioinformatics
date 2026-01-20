@@ -81,5 +81,5 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 ## Acknowledgement
 
 Originaly based on list from [Biostars](https://www.biostars.org/p/243961/) and [awosome-bioinformatics](https://github.com/openbiox/awosome-bioinformatics).  
-Great update from [https://bioinf-bloggers.com/](https://bioinf-bloggers.com/) by @novica.
+Great update from [https://bioinf-bloggers.com/](https://bioinf-bloggers.com/) by @novica.  
 Many thanks to all other contributors not mentioned here as well.
