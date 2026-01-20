@@ -74,9 +74,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 ## Team blog
 
 | Lab | Location | Description |
-| --- |
+| --- | --- | --- |
 | Pathogen informatics and modelling group | UK (EMBL-EBI) | [Bacterial population genomics blog](https://www.bacpop.org)
-| | JEFworks Lab | US (Johns Hopkins University) | [JEFworks Lab](http://jefworks-lab.github.io)
+| JEFworks Lab | US (Johns Hopkins University) | [JEFworks Lab](http://jefworks-lab.github.io)
 
 ## Acknowledgement
 
