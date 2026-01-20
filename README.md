@@ -17,7 +17,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | C. Titus Brown | | [Living in an Ivory Basement](http://ivory.idyll.org/blog/)
 | Dale Yuzuki | | [Next Generation Technologist](http://yuzuki.org) 
 | Dan Koboldt | | [Massgenomics](http://massgenomics.org)
+| Dave Tang | | [DAVE TANG'S BLOG](https://davetang.org/muse)
 | DG MacArthur | | [MacArthur Lab](https://macarthurlab.org/blog/)
+| Eric Kernfeld | US (Johns Hopkins University) | [Eric Kernfeld](https://ekernf01.github.io)
 | Ewan Birney | | [Ewan's blog: Bioinformatician at Large](ewanbirney.com)
 | Fei Zhao | | [The bear who thinks about problems](https://kaopubear.top/)
 | Freeseek | | [genetics for fun](http://apol1.blogspot.be/)
@@ -30,6 +32,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Jeremy Yoder | | [The Molecular Ecologist](http://www.molecularecologist.com/)
 | Jianming Zeng | | [bio-info-trainee](http://www.bio-info-trainee.com)
 | Joe Pickrell | New York, USA | [BEANBAG GENOMICS](https://joepickrell.wordpress.com/) 
+| John Lees | UK (EMBL-EBI)| [John Lees' blog](https://www.johnlees.me)
+| Joy McIlvaine |  | [Joy McIlvaine, PhD](https://joynyaanga.com) 
 | Keith Robison | | [Omics! Omics!](http://omicsomics.blogspot.be/)
 | Lars Juhl Jensen | University of Copenhagen, DK| [Buried Treasure](https://larsjuhljensen.wordpress.com/) 
 | Lex Nederbragt | University of Oslo, NOR | [In between lines of code](https://flxlexblog.wordpress.com/)
@@ -38,15 +42,17 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Mike Love | | [Mike Love’s blog](https://mikelove.wordpress.com/)
 | Michael D. Lee | NBACC & BMSIS / USA | [Happy Belly Bioinformatics](https://astrobiomike.github.io)
 | Mick Watson | | [OPINIOMICS](http://www.opiniomics.org/)
-| Ming Tommy Tang | | [Diving into Genetics and Genomics](http://crazyhottommy.blogspot.com) and [DNA CONFESSES DATA SPEAK](https://divingintogeneticsandgenomics.rbind.io/)
+| Ming Tommy Tang | | [Diving into Genetics and Genomics](http://crazyhottommy.blogspot.com) and [DNA CONFESSES DATA SPEAK](https://divingintogeneticsandgenomics.rbind.io/) and [Chatomics](https://divingintogeneticsandgenomics.com)
 | Monika Cechova Mich | Santa Cruz, USA | [Bioinformatics Bits and Pieces](http://sites.psu.edu/biomonika/)
 | Neil Saunders | | [WHAT YOU'RE DOING IS RATHER DESPERATE](https://nsaunders.wordpress.com/)
 | Nick Loman | | [Nick Loman Lab](http://lab.loman.net//)
+| Omar Almolla and Luciana Gaccione | | [BIOINFORMATICAMENTE](https://bioinformaticamente.com)
 | Ozk | Osaka, JPN | [ozk7311](https://note.com/ozk7311) 
 | Páll Melsted | University of Iceland, ISL | [Bits of Bioinformatics](https://pmelsted.wordpress.com/)
 | Peter Cock | | [Blasted Bioinformatics!?](https://blastedbio.blogspot.be/) 
 | Pierre Lindenbaum | FRA | [YOKOFAKUN](http://plindenbaum.blogspot.be/) 
 | Qingfeng Lan | USA | [Qingfeng's blog](https://lancelqf.github.io)
+| Ryan Wick | | [Ryan Wick's bioinformatics blog](https://rrwick.github.io)
 | Shixiang Wang | ShanghaiTech University, CHN | [Shixiang Wang](https://shixiangwang.github.io/home/)
 | Stephen Turner | | [Paired Ends](https://blog.stephenturner.us) 
 | Stuart Brown | | [Next-Gen Sequencing](http://nextgenseq.blogspot.be/)
@@ -65,6 +71,15 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | [R-BLOGGERS](https://www.r-bloggers.com) |
 | [QIAGEN](https://digitalinsights.qiagen.com/news/blog/) | 
 
+## Team blog
+
+| Lab | Location | Description |
+| --- |
+| Pathogen informatics and modelling group | UK (EMBL-EBI) | [Bacterial population genomics blog](https://www.bacpop.org)
+| | JEFworks Lab | US (Johns Hopkins University) | [JEFworks Lab](http://jefworks-lab.github.io)
+
 ## Acknowledgement
 
-Originaly based on list from [Biostars](https://www.biostars.org/p/243961/) and [awosome-bioinformatics](https://github.com/openbiox/awosome-bioinformatics)
+Originaly based on list from [Biostars](https://www.biostars.org/p/243961/) and [awosome-bioinformatics](https://github.com/openbiox/awosome-bioinformatics).  
+Great update from [https://bioinf-bloggers.com/](https://bioinf-bloggers.com/) by @novica.
+Many thanks to all other contributors not mentioned here as well.
