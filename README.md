@@ -38,6 +38,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | Lars Juhl Jensen | University of Copenhagen, DK| [Buried Treasure](https://larsjuhljensen.wordpress.com/) 
 | Lex Nederbragt | University of Oslo, NOR | [In between lines of code](https://flxlexblog.wordpress.com/)
 | Lior Pachter | | [Bits of DNA](https://liorpachter.wordpress.com/)
+| Mario Fasold | DE | [Mario Fasold's blog](https://mfasold.net/blog/)
 | Mark Ziemann | | [Genome Spot](http://genomespot.blogspot.be/) 
 | Mike Love | | [Mike Love’s blog](https://mikelove.wordpress.com/)
 | Michael D. Lee | NBACC & BMSIS / USA | [Happy Belly Bioinformatics](https://astrobiomike.github.io)
